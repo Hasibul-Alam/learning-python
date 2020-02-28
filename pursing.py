@@ -1,3 +1,4 @@
+#!/usr/bin/python3.9
 han = open ('mbox-short.txt')
 for line in han:
     line = line.rstrip()

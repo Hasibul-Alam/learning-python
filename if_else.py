@@ -1,3 +1,4 @@
+#!/usr/bin/python3.9
 inp=input('How many time you want to ran the program:')
 n=int(inp)
 for i in range(n):

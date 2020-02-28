@@ -1,3 +1,4 @@
+#!/usr/bin/python3.9
 # Program to show the use of lambda functions
 square = lambda x: x*x
 print (square(25))

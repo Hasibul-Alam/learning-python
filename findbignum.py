@@ -1,3 +1,4 @@
+#!/usr/bin/python3.9
 baseval = -1
 for i in [5,12,7,74,56,67]:
     if baseval < i:

@@ -1,3 +1,4 @@
+#!/usr/bin/python3.9
 str = '   This is Hasibul Alam.\nI am 26 years old.\nI like to play football.'
 '''striping from left and the opposit is rstrip()
 and strip() does striping from the both side'''

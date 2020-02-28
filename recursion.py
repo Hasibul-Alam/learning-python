@@ -1,3 +1,4 @@
+#!/usr/bin/python3.9
 def calc_factorial(x):
     if x == 1:
         return 1

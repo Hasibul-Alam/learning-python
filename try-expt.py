@@ -1,3 +1,4 @@
+#!/usr/bin/python3.9
 grab=input('Enter a number:')
 try:
     a=int(grab)

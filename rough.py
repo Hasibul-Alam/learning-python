@@ -1,3 +1,4 @@
+#!/usr/bin/python3.9
 # Program to iterate through a list using indexing
 
 genre = ['pop', 'rock', 'jazz']
