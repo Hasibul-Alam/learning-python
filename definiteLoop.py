@@ -1,3 +1,4 @@
+#!/usr/bin/python3.9
 for i in range(5):
     print(i)
 print('BlastOf')
@@ -7,4 +8,3 @@ friends=['Samim','Fokhrul','Saiful']
 for friend in friends:
     print(friend)
 print('Great Job!')
- 

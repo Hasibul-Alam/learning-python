@@ -1,3 +1,4 @@
+#!/usr/bin/python3.9
 fname = input ('Enter a file name:')
 try:
     fhand = open (fname)

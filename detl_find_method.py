@@ -1,3 +1,4 @@
+#!/usr/bin/python3.9
 data = 'From halambd7@diu.edu.bd sat jan 3:30 AM'
 atpos = data . find ('@')
 print ( atpos )

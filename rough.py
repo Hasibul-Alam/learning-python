@@ -1,3 +1,4 @@
+#!/usr/bin/python3.9
 # Program to iterate through a list using indexing
 
 genre = ['pop', 'rock', 'jazz']
@@ -16,3 +17,5 @@ for k in range(1,50):
 	sum = k*k
 	x.append(sum)
 print ('List :',x)
+
+print ('Put more concentration in learning python')

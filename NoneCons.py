@@ -1,3 +1,4 @@
+#!/usr/bin/python3.9
 smallest = None
 for value in [54,95,84,17,14,38,7,19]:
     if smallest is None:
