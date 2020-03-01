@@ -1,5 +1,5 @@
 #!/usr/bin/python3.9
-''' Program Writer: Hasiul Alam
+''' Program Writer: Hasibul Alam
     "Play with Python"
     Create a histogram of people apper in a file
     using dictionary datatype.'''
