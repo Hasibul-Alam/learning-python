@@ -17,5 +17,3 @@ for k in range(1,50):
 	sum = k*k
 	x.append(sum)
 print ('List :',x)
-
-print ('Put more concentration in learning python')

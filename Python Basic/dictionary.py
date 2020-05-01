@@ -16,10 +16,10 @@ d1 = {
 }
 print ('Curly Bracket:',d1)
 
-# Accessing Items
 print ('----------++++++++++++++++----------')
 # Access the items by referring to its key name, inside square brackets.
 print ('Accessed Item:',d ['stu3_name'])
+
 # Access an item with get() method
 print ('Accessed Item with get():',d.get('stu2_name'))
 
@@ -37,6 +37,7 @@ for i in d:
     print (i)
 for h in d.keys():
     print (h)
+
 # print all the values of the Dictionary
 print ('--------Values-------')
 for j in d:
